@@ -1,4 +1,4 @@
-const BASE_URL = "https://mi-sitio.com"; // cámbialo por tu dominio real
+const BASE_URL = "https://pruebanextjsseolab14.onrender.com"; // cámbialo por tu dominio real
 
 // Simulando obtención de rutas desde BD/CMS
 const obtenerRutas = async () => {
